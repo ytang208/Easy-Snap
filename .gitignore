@@ -1,0 +1,15 @@
+# macOS metadata
+.DS_Store
+._*
+
+# Generated app and local Swift compiler cache
+*.app/
+.module-cache/
+.build/
+
+# Distribute packaged downloads through GitHub Releases
+*.zip
+
+# Local editor files
+*.swp
+*~
